@@ -1,0 +1,2 @@
+enum ImageLoaderType { user, image }
+
